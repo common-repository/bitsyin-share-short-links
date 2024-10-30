@@ -1,0 +1,27 @@
+#sharebox
+{
+	left: 0px !important;
+	position: fixed !important;
+	z-index: 999 !important;
+}
+.sharebtn
+{
+	display:inline !important;
+	margin:0 !important;
+	box-shadow:none !important;
+	border:none !important;
+}
+.favicon
+{
+	position: absolute !important;
+	top: 40px !important; 
+	right: -2px !important;
+	display:inline !important;
+	margin:0 !important;
+	box-shadow:none !important;
+	border:none !important;
+}
+.bitsynone
+{
+	display: none;
+}
